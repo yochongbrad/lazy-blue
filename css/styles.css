@@ -1,0 +1,15 @@
+body    {
+    font-family: 'Nunito', 'Trebuchet MS', sans-serif;
+}
+
+.navbar .navbar-brand   {
+    color: white;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.jumbotron  {
+    background-image: url('../images/MilkyWay.jpg');
+    background-size: cover;
+}
+ 
